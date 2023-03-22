@@ -1,0 +1,117 @@
+{
+    "_id": "uniapply_req",
+    "startUrl": [
+        "https://www.uniapply.com/schools/schools-in-bangalore/?apply=1"
+    ],
+    "selectors": [
+        {
+            "delay": 2000,
+            "elementLimit": 0,
+            "id": "scroll",
+            "multiple": true,
+            "parentSelectors": [
+                "_root"
+            ],
+            "selector": "a.h4",
+            "type": "SelectorElementScroll"
+        },
+        {
+            "id": "schoolprofiles",
+            "multiple": true,
+            "parentSelectors": [
+                "_root",
+                "pagination"
+            ],
+            "selector": "a.h4",
+            "type": "SelectorLink"
+        },
+        {
+            "id": "school_name",
+            "multiple": false,
+            "parentSelectors": [
+                "schoolprofiles"
+            ],
+            "regex": "",
+            "selector": "h1",
+            "type": "SelectorText"
+        },
+        {
+            "id": "address",
+            "multiple": false,
+            "parentSelectors": [
+                "schoolprofiles"
+            ],
+            "regex": "",
+            "selector": "li:nth-of-type(1) div",
+            "type": "SelectorText"
+        },
+        {
+            "id": "email",
+            "multiple": false,
+            "parentSelectors": [
+                "schoolprofiles"
+            ],
+            "regex": "",
+            "selector": ".schoolAddress a",
+            "type": "SelectorText"
+        },
+        {
+            "id": "website",
+            "multiple": false,
+            "parentSelectors": [
+                "schoolprofiles"
+            ],
+            "regex": "",
+            "selector": "li:nth-of-type(3) div",
+            "type": "SelectorText"
+        },
+        {
+            "id": "phone_number",
+            "multiple": false,
+            "parentSelectors": [
+                "schoolprofiles"
+            ],
+            "regex": "",
+            "selector": ".col-sm-5 ul",
+            "type": "SelectorHTML"
+        },
+        {
+            "id": "is_official",
+            "multiple": false,
+            "parentSelectors": [
+                "schoolprofiles"
+            ],
+            "regex": "",
+            "selector": "span.h5",
+            "type": "SelectorText"
+        },
+        {
+            "id": "is_verified",
+            "multiple": false,
+            "parentSelectors": [
+                "schoolprofiles"
+            ],
+            "selector": ".verified-list img",
+            "type": "SelectorImage"
+        },
+        {
+            "id": "Total_Cost_for_a_new_admission",
+            "multiple": false,
+            "parentSelectors": [
+                "schoolprofiles"
+            ],
+            "regex": "",
+            "selector": "div.data-list:nth-of-type(1) .s-cost div",
+            "type": "SelectorText"
+        },
+        {
+            "id": "map",
+            "multiple": false,
+            "parentSelectors": [
+                "schoolprofiles"
+            ],
+            "selector": ".flex-row a.btn",
+            "type": "SelectorLink"
+        }
+    ]
+}
