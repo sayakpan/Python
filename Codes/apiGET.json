@@ -1,0 +1,120 @@
+[
+    {
+        "Message": "Number of pincode(s) found: 8",
+        "Status": "Success",
+        "PostOffice": [
+            {
+                "Name": "Bhuerah",
+                "Description": None,
+                "BranchType": "Branch Post Office",
+                "DeliveryStatus": "Delivery",
+                "Circle": "West Bengal",
+                "District": "Hooghly",
+                "Division": "Hooghly North",
+                "Region": "South Bengal",
+                "Block": "Pursurah",
+                "State": "West Bengal",
+                "Country": "India",
+                "Pincode": "712415"
+            },
+            {
+                "Name": "Harinkhola",
+                "Description": None,
+                "BranchType": "Branch Post Office",
+                "DeliveryStatus": "Delivery",
+                "Circle": "West Bengal",
+                "District": "Hooghly",
+                "Division": "Hooghly North",
+                "Region": "South Bengal",
+                "Block": "Arambagh",
+                "State": "West Bengal",
+                "Country": "India",
+                "Pincode": "712415"
+            },
+            {
+                "Name": "Hati",
+                "Description": None,
+                "BranchType": "Branch Post Office",
+                "DeliveryStatus": "Delivery",
+                "Circle": "West Bengal",
+                "District": "Hooghly",
+                "Division": "Hooghly North",
+                "Region": "South Bengal",
+                "Block": "Pursurah",
+                "State": "West Bengal",
+                "Country": "India",
+                "Pincode": "712415"
+            },
+            {
+                "Name": "Jasar",
+                "Description": None,
+                "BranchType": "Branch Post Office",
+                "DeliveryStatus": "Delivery",
+                "Circle": "West Bengal",
+                "District": "Hooghly",
+                "Division": "Hooghly North",
+                "Region": "South Bengal",
+                "Block": "Arambagh",
+                "State": "West Bengal",
+                "Country": "India",
+                "Pincode": "712415"
+            },
+            {
+                "Name": "Pratapnagar (Hoogh",
+                "Description": None,
+                "BranchType": "Branch Post Office",
+                "DeliveryStatus": "Delivery",
+                "Circle": "West Bengal",
+                "District": "Hooghly",
+                "Division": "Hooghly North",
+                "Region": "South Bengal",
+                "Block": "Arambagh",
+                "State": "West Bengal",
+                "Country": "India",
+                "Pincode": "712415"
+            },
+            {
+                "Name": "Purba Krishnapur",
+                "Description": None,
+                "BranchType": "Branch Post Office",
+                "DeliveryStatus": "Delivery",
+                "Circle": "West Bengal",
+                "District": "Hooghly",
+                "Division": "Hooghly North",
+                "Region": "South Bengal",
+                "Block": "Arambagh",
+                "State": "West Bengal",
+                "Country": "India",
+                "Pincode": "712415"
+            },
+            {
+                "Name": "Ragpur",
+                "Description": None,
+                "BranchType": "Branch Post Office",
+                "DeliveryStatus": "Delivery",
+                "Circle": "West Bengal",
+                "District": "Hooghly",
+                "Division": "Hooghly North",
+                "Region": "South Bengal",
+                "Block": "Arambagh",
+                "State": "West Bengal",
+                "Country": "India",
+                "Pincode": "712415"
+            },
+            {
+                "Name": "Saidpur (Hooghly)",
+                "Description": None,
+                "BranchType": "Sub Post Office",
+                "DeliveryStatus": "Delivery",
+                "Circle": "West Bengal",
+                "District": "Hooghly",
+                "Division": "Hooghly North",
+                "Region": "South Bengal",
+                "Block": "Pursurah",
+                "State": "West Bengal",
+                "Country": "India",
+                "Pincode": "712415"
+            }
+        ]
+    }
+]
